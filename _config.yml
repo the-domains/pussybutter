@@ -1,4 +1,3 @@
-layout_spectrum: 0.3676387700252235
 typography_spectrum: 0.5136145232245326
 color:
   brandStrength: 0.504584051668644
@@ -11,4 +10,6 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
+layout_spectrum: 0.3676387700252235
 name: PussyButter
+description: PussyButter
